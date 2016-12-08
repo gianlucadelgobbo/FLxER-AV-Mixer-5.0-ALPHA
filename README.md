@@ -1,12 +1,12 @@
-FLxER AV Mixer 4.1 ALPHA
+FLxER AV Mixer 5.0 ALPHA
 =============
-PC / MAC
+PC / MAC / LINUX
 
 https://flxer.net
 
 Published
 ------------
-14-05-2006
+21-01-2010
 
 ```
 ///////////////////////////////////////////
@@ -74,7 +74,7 @@ FLxER is a free software made with internet tecnology so for security reasons do
 
 STARTING 
 ------------
-1) NO ISTALLATION IS REQUIRED, launch the application FLxER4betaMAC (MAC) / FLxER4betaPC.exe (PC) / FLxER4betaLINUX.swf (LINUX - YOU NEED ADOBE FLASH PLAYER 9 STANDALONE http://labs.adobe.com/technologies/flashplayer9/) and take a tour of the funcnionality start from "select playlist" and load some movie.
+1) NO ISTALLATION IS REQUIRED, launch the application FLxER5alpha.app (MAC) / FLxER5alpha.exe (PC) / FLxER5alpha.swf (LINUX - YOU NEED ADOBE FLASH PLAYER 9 STANDALONE http://labs.adobe.com/technologies/flashplayer9/) and take a tour of the funcnionality start from "select playlist" and load some movie.
 
 2) If you enjoy FLxER and you want to try playing with your movies and files you have to modify the configuration files manually or using "FLxEReasyPlaylistsBuilder.jar".
 
@@ -96,7 +96,7 @@ UPGRADING FLxER 3.0.1
 4) open the new "preferences/playlists.xml" and paste it into the node (<playlists>)
 
 
-FLxER 4 FEATURES 
+FLxER 5 FEATURES 
 ------------
 - 7 channels video mixer
 
@@ -126,4 +126,33 @@ FLxER 4 FEATURES
 
 - BROADCAST VIDEO PLAYER
 
- 
+##Oscillator plugin (by Flavio Distefano)
+------------
+This update contains a plug-in that allows to change some flxer's movies properties according to a wave form generator.
+the properties are:
+position (x,y,z)
+scaling(x,y)
+rotation(x,y,z)
+colors(r,g,b)
+
+###Start up:
+- Open Monitor Out
+
+- Open FLxER in "multi monitor" mode
+
+- Open Oscillator Plug-in
+
+- Enjoy
+
+###How to install:
+- copy the folder "Oscillator" and its content in your FLxER "plug-in" folder 
+- copy the Oscillator_plug-in application in your FLxER folder at the same level of your FLxER application
+
+
+###How to use:
+The interface has 7 control panels, one for each FLxER channel.
+- first select the wave form from FUNCTION combobox
+- set the amplitude of the wave; default is 50, max 100
+- set the speed with the button tap 
+- then choose the property or the properties you want to change  according with the wave form
+- press the button "APPLY TO CH" to start the plug-in and you will see the results in monitor out 
