@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><plugin>
+	<!-- YOUR WIPES -->
+	<wipes path="plug-in/wipes/"><mov m="CIRCULAR4.swf"/><mov m="spiralona4.swf"/><mov m="stellar4.swf"/></wipes>
+	<!-- YOUR DV-IN -->
+	<dv-in path="plug-in/dv_in/">
+		<mov m="IN-1_160x120_15fps.swf"/>
+		<mov m="IN-1_160x120_15fps_X4.swf"/>
+		<mov m="IN-1_160x120_15fps_X4_kale.swf"/>
+		<mov m="IN-1_160x120_15fps_X6.swf"/>
+		<mov m="IN-1_320x240_15fps.swf"/>
+		<mov m="IN-1_320x240_15fps_X4.swf"/>
+		<mov m="IN-1_320x240_15fps_X4_kale.swf"/>
+		<mov m="IN-1_320x240_15fps_X6.swf"/>
+		<mov m="IN-1_400x300_15fps.swf"/>
+		<mov m="IN-1_400x300_15fps_X4.swf"/>
+		<mov m="IN-1_400x300_15fps_X4_kale.swf"/>
+		<mov m="IN-1_400x300_15fps_X6.swf"/>
+		<mov m="IN-1_400x300_25fps.swf"/>
+		<mov m="IN-1_720x576_15fps.swf"/>
+		<mov m="IN-1_720x576_25fps.swf"/>
+		<mov m="IN-1_800x600_15fps.swf"/>
+		<mov m="IN-1_800x600_25fps.swf"/>
+		<mov m="IN-2_160x120_15fps.swf"/>
+		<mov m="IN-2_160x120_15fps_X4.swf"/>
+		<mov m="IN-2_160x120_15fps_X4_kale.swf"/>
+		<mov m="IN-2_160x120_15fps_X6.swf"/>
+		<mov m="IN-2_320x240_15fps.swf"/>
+		<mov m="IN-2_320x240_15fps_X4.swf"/>
+		<mov m="IN-2_320x240_15fps_X4_kale.swf"/>
+		<mov m="IN-2_320x240_15fps_X6.swf"/>
+		<mov m="IN-2_400x300_15fps.swf"/>
+		<mov m="IN-2_400x300_15fps_X4.swf"/>
+		<mov m="IN-2_400x300_15fps_X4_kale.swf"/>
+		<mov m="IN-2_400x300_15fps_X6.swf"/>
+		<mov m="IN-2_400x300_25fps.swf"/>
+		<mov m="IN-2_720x576_15fps.swf"/>
+		<mov m="IN-2_720x576_25fps.swf"/>
+		<mov m="IN-2_800x600_15fps.swf"/>
+		<mov m="IN-2_800x600_25fps.swf"/>
+		<mov m="IN-3_160x120_15fps.swf"/>
+		<mov m="IN-3_160x120_15fps_X4.swf"/>
+		<mov m="IN-3_160x120_15fps_X4_kale.swf"/>
+		<mov m="IN-3_160x120_15fps_X6.swf"/>
+		<mov m="IN-3_320x240_15fps.swf"/>
+		<mov m="IN-3_320x240_15fps_X4.swf"/>
+		<mov m="IN-3_320x240_15fps_X4_kale.swf"/>
+		<mov m="IN-3_320x240_15fps_X6.swf"/>
+		<mov m="IN-3_400x300_15fps.swf"/>
+		<mov m="IN-3_400x300_15fps_X4.swf"/>
+		<mov m="IN-3_400x300_15fps_X4_kale.swf"/>
+		<mov m="IN-3_400x300_15fps_X6.swf"/>
+		<mov m="IN-3_400x300_25fps.swf"/>
+		<mov m="IN-3_720x576_15fps.swf"/>
+		<mov m="IN-3_720x576_25fps.swf"/>
+		<mov m="IN-3_800x600_15fps.swf"/>
+		<mov m="IN-3_800x600_25fps.swf"/>
+		<mov m="IN-4_160x120_15fps.swf"/>
+		<mov m="IN-4_160x120_15fps_X4.swf"/>
+		<mov m="IN-4_160x120_15fps_X4_kale.swf"/>
+		<mov m="IN-4_160x120_15fps_X6.swf"/>
+		<mov m="IN-4_320x240_15fps.swf"/>
+		<mov m="IN-4_320x240_15fps_X4.swf"/>
+		<mov m="IN-4_320x240_15fps_X4_kale.swf"/>
+		<mov m="IN-4_320x240_15fps_X6.swf"/>
+		<mov m="IN-4_400x300_15fps.swf"/>
+		<mov m="IN-4_400x300_15fps_X4.swf"/>
+		<mov m="IN-4_400x300_15fps_X4_kale.swf"/>
+		<mov m="IN-4_400x300_15fps_X6.swf"/>
+		<mov m="IN-4_400x300_25fps.swf"/>
+		<mov m="IN-4_720x576_15fps.swf"/>
+		<mov m="IN-4_720x576_25fps.swf"/>
+		<mov m="IN-4_800x600_15fps.swf"/>
+		<mov m="IN-4_800x600_25fps.swf"/>
+		<mov m="640_15.swf"/>
+		<mov m="720_25_BELKIN2.swf"/>
+	</dv-in>
+	<!-- EFFECTS -->
+	<effects path="plug-in/effects/">
+		<mov m="rotate_ch4.swf"/>
+		<mov m="blur.swf"/>
+	</effects>
+	<!-- READER MODES -->
+	<readerModes path="plug-in/readerModes/">
+		<mov m="w-by-w.swf"/>
+		<mov m="yugotxt.swf"/>
+		<mov m="r_to_l.swf"/>
+	</readerModes>
+</plugin>

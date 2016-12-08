@@ -1,0 +1,5 @@
+<lib>
+	<playlist name="othersFiles" path="library/audio/">
+		<mov m="3hats.mp3" />
+	</playlist>
+</lib>

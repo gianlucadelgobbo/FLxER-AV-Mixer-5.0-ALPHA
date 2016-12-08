@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<flxerPerferences version="4" col="0x999999" bkgCol="0x000000" bkgColOver="0x990000" brdCol="0x333333" pltCol="0x909090" monCol="0x000000">
+	<channels value="7" />
+	<flxerLibraryPath useServer="false" value="http://www.flxer.net/warehouse/_flxer/" />
+	<viewKeyboardShortcut value="true" />
+	<!-- BROADCAST SERVERS -->
+	<broadcastServers>
+		<server m="flxerSingle" val="rtmp://217.72.102.104/flxerSingle" />
+		<server m="flxerMultiple" val="rtmp://217.72.102.104/flxerMultiple" />
+		<server m="flxerSingleLoc" val="rtmp://localhost/flxerSingle" />
+		<server m="flxerMultipleLoc" val="rtmp://localhost/flxerMultiple" />
+
+	</broadcastServers>
+	<!-- 3D ENGINE -->
+	<treDengine smoothStop="true" zvalue="300" zalpha="true" />
+</flxerPerferences>
